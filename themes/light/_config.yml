@@ -1,10 +1,9 @@
 menu:
-  Home: /
-  Archives: /archives
+  '皮蛋的主页': //pidan.cat
+  '豆腐的主页': //doufu.cat
 
 widgets:
 - donate
-- category
 - tag
 
 excerpt_link: Read More

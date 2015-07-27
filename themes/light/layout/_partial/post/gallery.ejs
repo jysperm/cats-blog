@@ -8,8 +8,10 @@
       <img src="<%- item.photos %>">
     <% } %>
   </div>
-  <div class="control">
-    <div class="prev"></div>
-    <div class="next"></div>
-  </div>
+  <% if (item.photos.length > 1){ %>
+    <div class="control">
+      <div class="prev"></div>
+      <div class="next"></div>
+    </div>
+  <% } %>
 </div>
