@@ -10,9 +10,9 @@ timezone: Asia/Shanghai
 disqus_shortname: 'pidan-doufu'
 
 # URL
-url: http://yoursite.com
+url: http://pidan.cat
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 
 # Directory
@@ -59,4 +59,7 @@ theme: light
 
 # Deployment
 deploy:
-  type:
+  type: rsync
+  host: spawn.rpvhost.net
+  user: jysperm
+  root: /home/jysperm/cats-blog
