@@ -1,7 +1,7 @@
 # Hexo Configuration
 
 # Site
-title: 皮蛋 & 豆腐
+title: 皮蛋豆腐的博客
 subtitle:
 description:
 author: jysperm
@@ -61,5 +61,5 @@ theme: light
 deploy:
   type: rsync
   host: spawn.rpvhost.net
-  user: jysperm
-  root: /home/jysperm/cats-blog
+  user: docker
+  root: /home/docker/sites/cats-blog
