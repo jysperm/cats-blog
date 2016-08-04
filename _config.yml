@@ -45,6 +45,8 @@ highlight:
 default_category: uncategorized
 category_map:
 tag_map:
+  皮蛋: pidan
+  豆腐: doufu
 
 # Date / Time format
 date_format: YYYY-MM-DD

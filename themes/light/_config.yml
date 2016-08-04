@@ -1,6 +1,6 @@
 menu:
-  '只看皮蛋': //pidan.cat/tags/%E7%9A%AE%E8%9B%8B/
-  '只看豆腐': //pidan.cat/tags/%E8%B1%86%E8%85%90/
+  '只看皮蛋': //pidan.cat/tags/pidan/
+  '只看豆腐': //pidan.cat/tags/doufu/
 
 widgets:
 - donate
