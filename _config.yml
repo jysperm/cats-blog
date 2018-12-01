@@ -62,6 +62,6 @@ theme: light
 # Deployment
 deploy:
   type: rsync
-  host: spawn.rpvhost.net
-  user: docker
-  root: /home/docker/sites/cats-blog
+  host: ap-home.rpvhost.net
+  user: www-data
+  root: /home/www-data/cats-blog

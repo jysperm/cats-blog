@@ -1,10 +1,9 @@
 menu:
   FAQ: /faq
-  '只看皮蛋': //pidan.cat/tags/pidan/
-  '只看豆腐': //doufu.cat/tags/doufu/
+  '皮蛋': //pidan.cat/tags/pidan/
+  '豆腐': //doufu.cat/tags/doufu/
 
 widgets:
-- donate
 - tag
 
 excerpt_link: Read More
